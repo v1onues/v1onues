@@ -30,9 +30,9 @@ I don't just write code; I build empires through automation, AI, and modern web 
 ---
 
 ### 📊 My GitHub Pulse
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=v1onuess&show_icons=true&theme=tokyonight&rank_icon=github" alt="v1onuess stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1onuess&layout=compact&theme=tokyonight" alt="v1onuess top langs" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=v1onuess&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1onuess&layout=compact&theme=tokyonight&border_radius=10" alt="langs" width="300" />
 </p>
 
 ---
