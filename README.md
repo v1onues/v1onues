@@ -15,6 +15,10 @@ I don't just write code; I build empires through automation, AI, and modern web 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+![snake animation](https://github.com/v1onuess/v1onuess/blob/output/github-contribution-grid-snake.svg)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=v1onuess&theme=tokyonight&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 📂 The Koleth Empire (Current Projects)
