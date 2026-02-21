@@ -15,10 +15,9 @@ I don't just write code; I build empires through automation, AI, and modern web 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-![snake animation](https://github.com/v1onuess/v1onuess/blob/output/github-contribution-grid-snake.svg)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=v1onuess&theme=tokyonight&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=v1onuess&theme=tokyonight&no-bg=true" />
+</p>
 ---
 
 ### 📂 The Koleth Empire (Current Projects)
@@ -31,9 +30,10 @@ I don't just write code; I build empires through automation, AI, and modern web 
 
 ### 📊 My GitHub Pulse
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=v1onuess&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1onuess&layout=compact&theme=tokyonight&border_radius=10" alt="langs" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=v1onuess&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1onuess&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
