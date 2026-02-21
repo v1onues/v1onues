@@ -8,22 +8,22 @@ I don't just write code; I build empires through automation, AI, and modern web 
 
 ---
 
-### 📊 GitHub Power Stats
+### 📊 GitHub Analytics
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1onuess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1onuess&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=v1onuess&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1onuess&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-### 🏆 Achievements
+### 🏆 Master Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=v1onuess&theme=tokyonight&no-bg=true&column=4" />
+<img src="https://github-trophies.vercel.app/?username=v1onuess&theme=tokyonight&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-### 🛠 Tech Arsenal
+### 🛠 My Tech Arsenal
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,python,nodejs,tailwind,mysql,postgres,redis,aws,docker,git&theme=dark" />
@@ -32,7 +32,13 @@ I don't just write code; I build empires through automation, AI, and modern web 
 
 ---
 
-### 📂 The Koleth Empire
-- ⚽️ **FootballLib:** AI-powered football library & archive.
-- 🤖 **Rodyat Bot:** Next-gen AI Discord Wizard. [rodyat.tech](https://rodyat.tech)
-- 💸 **GiBOT:** High-performance invoice automation.
+### 📂 The Koleth Empire (Core Projects)
+- ⚽️ **FootballLib:** The ultimate AI-powered football historical archive.
+- 🤖 **Rodyat Bot:** Next-gen Discord Server Wizard. [rodyat.tech](https://rodyat.tech)
+- 💸 **GiBOT:** High-performance e-commerce invoice automation.
+
+---
+
+### 📫 Connect with me:
+- 💼 Founder @ **Koleth**
+- ⚡️ *Building the future, one commit at a time.*
