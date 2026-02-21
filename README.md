@@ -10,8 +10,8 @@ I don't just write code; I build empires through automation, AI, and modern web 
 
 ### 📊 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=v1onuess&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1onuess&layout=compact&theme=tokyonight" height="170" />
+<img src="https://githubreadmestatsfast.vercel.app/api?username=v1onuess&show_icons=true&theme=tokyonight&border_radius=10" height="170" />
+<img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=v1onuess&layout=compact&theme=tokyonight&border_radius=10" height="170" />
 </p>
 
 ---
