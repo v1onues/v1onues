@@ -16,6 +16,11 @@ I don't just write code; I build empires through automation, AI, and modern web 
 </p>
 
 ---
+### 🤖 StatusAI
+<p align="center">
+<img src="https://koleth-presence.vercel.app/api/presence/1295071083661361253" />
+</p>
+---
 
 ### 🏆 Master Achievements
 <p align="center">
