@@ -19,7 +19,7 @@ I don't just write code; I build empires through automation, AI, and modern web 
 
 ### 🤖 StatusAI
 <p align="center">
-<img src="https://koleth-presence.vercel.app/api/presence/1295071083661361253" width="480">
+<img src="https://koleth-presence.vercel.app/api/presence/1295071083661361253?v=beta-v1" width="480" />
 </p>
 
 ---
