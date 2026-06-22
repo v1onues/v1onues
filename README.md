@@ -17,13 +17,6 @@ I don't just write code; I build empires through automation, AI, and modern web 
 
 ---
 
-### 🤖 StatusAI
-<p align="center">
-<img src="https://koleth-presence.vercel.app/api/presence/1295071083661361253?=beta-v3" width="480" />
-</p>
-
----
-
 ### 🏆 Master Achievements
 <p align="center">
 <img src="https://github-trophies.vercel.app/?username=v1onuess&theme=tokyonight&no-bg=true&margin-w=15" />
